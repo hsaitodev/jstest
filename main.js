@@ -1,5 +1,5 @@
-var first = function(){
-    console.log(`test`);
+function test(){
+    console.log("test");
 }
 
 var second = function(){
